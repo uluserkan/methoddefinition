@@ -1,2 +1,2 @@
 # methoddefinition
-MEthod Definition
+Method Definition
